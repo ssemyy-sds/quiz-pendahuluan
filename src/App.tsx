@@ -363,7 +363,7 @@ export default function App() {
           <div className="w-full max-w-md bg-white rounded-2xl shadow-xl overflow-hidden border border-slate-100">
             <div className="bg-blue-600 p-8 text-center text-white">
               <BookOpen className="w-12 h-12 mx-auto mb-4 text-blue-100" />
-              <h1 className="text-2xl font-bold tracking-tight">Kuis Post-test</h1>
+              <h1 className="text-2xl font-bold tracking-tight">Preliminary Test/h1>
               <p className="text-blue-100 mt-2 font-medium">Elektronika Digital</p>
             </div>
             <div className="p-8">
